@@ -1,5 +1,5 @@
 # Hello! I'm Brenan 👨‍💻
-## A Senior Computer Science Major at Northern Michigan University, specifically [Mobile and Web Application](https://nmu.edu/bulletin/mobile-and-web-app-development)
+## A Senior Computer Science Major at Northern Michigan University, specifically [Mobile and Web Application](https://nmu.edu/bulletin/mobile-and-web-app-development-7)
 #### Helped Design the Robitics Team Website for the [BraveBots](http://www.bravebots.net/) 🤖
 #### Check out my personal projects, resume, and course work [here](https://github.com/BrenanMarenger?tab=repositories)
 
