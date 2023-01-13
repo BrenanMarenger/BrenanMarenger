@@ -4,5 +4,3 @@
 #### Find me on: [LinkedIn](https://www.linkedin.com/in/brenan-marenger-924432255/)
 #### Check out my personal projects, resume, and course work [here](https://github.com/BrenanMarenger?tab=repositories)
 
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenanmarenger&layout=compact&theme=radical" >
