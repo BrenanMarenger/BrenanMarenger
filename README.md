@@ -3,7 +3,6 @@
 ### Current Positions: 
 * Development Internship @ Northcross Group, Marquette
 * Front End Developer Intern @ Hephium, Remote
-* A/V Technician / Porter @ Holiday Inn, Marquette
 
 #### Contact me: bmarenge@nmu.edu 
 #### Find me on: [LinkedIn](https://www.linkedin.com/in/brenanmarenger/)
