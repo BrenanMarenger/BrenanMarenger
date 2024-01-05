@@ -1,9 +1,8 @@
 # Hello! I'm Brenan 👨‍💻
-## A [Mobile and Web Application Development](https://nmu.edu/bulletin/mobile-and-web-app-development-7) Major at Northern Michigan University 
 ### Current Position: 
-* Development Intern @ Northcross Group, Marquette
+* Application & Digital Media Developer @ Northcross Group, Marquette
 
-#### Contact me: bmarenge@nmu.edu 
+#### Contact me: bmarenger@northcrossgroup.com 
 #### Find me on: [LinkedIn](https://www.linkedin.com/in/brenanmarenger/)
 
 
