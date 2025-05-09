@@ -1,4 +1,3 @@
-# Hello! I'm Brenan 👨‍💻
 ### Current Position: 
 * Application & Digital Media Developer @ Northcross Group, Marquette
 
